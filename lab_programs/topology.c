@@ -2,7 +2,7 @@
 int c;
 int main() {
     int n,i,j;
-    printf("Enter the number of nodes : ");
+    printf("Enter the number of Nodes : ");
     scanf("%d", &n);
     int a [n][n], v[n];
     printf("Enter the adjacency matrix : \n");
